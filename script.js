@@ -112,8 +112,8 @@ function checkWin()
            {
             return true;
            }
-    return false;
   } 
+  return false;
 }
 
 function checkDraw()
